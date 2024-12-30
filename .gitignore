@@ -1,0 +1,60 @@
+# Fichiers générés par macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Fichiers spécifiques aux répertoires
+Icon?
+Thumbs.db
+
+# Fichiers de data 
+/data
+
+# Cache système macOS
+._*
+
+# Fichiers de logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Poetry
+.poetry/
+*.lock
+
+# Virtual environments
+venv/
+.env/
+env/
+venv.bak/
+.env.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs/Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Autres
+*.bak
+*.tmp
+*.~*
+*.orig
+
+# Ignorer les fichiers générés par Git lors des merges
+*.rej
+*.orig
