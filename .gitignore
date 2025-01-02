@@ -58,3 +58,6 @@ venv.bak/
 # Ignorer les fichiers générés par Git lors des merges
 *.rej
 *.orig
+change_masks/
+graph_evolution_classes/
+change_mask.txt
